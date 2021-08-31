@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook:hermes:0.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d017beea45cb043202574a9cab13e84/transformed/jetified-hermes-0.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e72456210f58cffbad3ddc445790677/transformed/jetified-hermes-0.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0e72456210f58cffbad3ddc445790677/transformed/jetified-hermes-0.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e72456210f58cffbad3ddc445790677/transformed/jetified-hermes-0.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

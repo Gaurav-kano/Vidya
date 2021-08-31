@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community-async-storage:1.3.4-jitsi-4429568@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b8923ba00f38c6f23186e90a25c608c/transformed/jetified-react-native-community-async-storage-1.3.4-jitsi-4429568/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f69b1ce132c4121710251c71f1ce6e86/transformed/jetified-react-native-community-async-storage-1.3.4-jitsi-4429568/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f69b1ce132c4121710251c71f1ce6e86/transformed/jetified-react-native-community-async-storage-1.3.4-jitsi-4429568/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f69b1ce132c4121710251c71f1ce6e86/transformed/jetified-react-native-community-async-storage-1.3.4-jitsi-4429568/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community-async-storage/1.3.4-jitsi-4429568/2b327da9e3af4cb75e72c78c37459964c6bb3ea3/react-native-community-async-storage-1.3.4-jitsi-4429568-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

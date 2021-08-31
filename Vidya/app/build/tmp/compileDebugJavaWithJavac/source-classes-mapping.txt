@@ -1,0 +1,21 @@
+com/example/vidya/AssignmentActivity.java
+ com.example.vidya.AssignmentActivity
+ com.example.vidya.AssignmentActivity$1
+ com.example.vidya.AssignmentActivity$2
+ com.example.vidya.AssignmentActivity$3
+com/example/vidya/TeacherDashboard.java
+ com.example.vidya.TeacherDashboard
+com/example/vidya/BuildConfig.java
+ com.example.vidya.BuildConfig
+com/example/vidya/VideoActivity.java
+ com.example.vidya.VideoActivity
+com/example/vidya/StudentDashboard.java
+ com.example.vidya.StudentDashboard
+com/example/vidya/MainActivity.java
+ com.example.vidya.MainActivity
+com/example/vidya/LoginActivity.java
+ com.example.vidya.LoginActivity
+ com.example.vidya.LoginActivity$1
+ com.example.vidya.LoginActivity$2
+com/example/vidya/ChooseActivity.java
+ com.example.vidya.ChooseActivity

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">685175661728-j8i7tdovtqkpk855espnjegkel39ta85.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vidya-72a13-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">685175661728</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9d_PzQ7N7P_Rx8DFUIIfSrVbfoXFQ4Pc</string>
+    <string name="google_app_id" translatable="false">1:685175661728:android:0c554487573eff8f61d5c5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9d_PzQ7N7P_Rx8DFUIIfSrVbfoXFQ4Pc</string>
+    <string name="google_storage_bucket" translatable="false">vidya-72a13.appspot.com</string>
+    <string name="project_id" translatable="false">vidya-72a13</string>
+</resources>
