@@ -6,6 +6,6 @@ A Vidya classroom is an online teaching and learning environment where teachers 
 - Android Studio
 - Firebase
 - Jitsi meet api 
-- Google Integeration
+- Google Integration
 - Java
 
